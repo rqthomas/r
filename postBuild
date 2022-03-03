@@ -2,7 +2,7 @@
 
 sudo apt-get update -qq && apt-get -y --no-install-recommends install \
     git \ 
-    lbzip2 \
+    libzip2 \
     libfftw3-dev \
     libgdal-dev \
     libgeos-dev \
