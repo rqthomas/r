@@ -1,5 +1,6 @@
-apt-get update -qq
-apt-get -y --no-install-recommends install \
+sudo apt-get update -qq
+sudo apt-get -y --no-install-recommends install \
+    libzip2 \
     git \ 
     libfftw3-dev \
     libgdal-dev \
