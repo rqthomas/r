@@ -1,6 +1,6 @@
 #!/bin/bash
 
-apt-get update -qq && apt-get -y --no-install-recommends install \
+sudo apt-get update -qq && apt-get -y --no-install-recommends install \
     git \ 
     lbzip2 \
     libfftw3-dev \
