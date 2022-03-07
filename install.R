@@ -26,7 +26,8 @@ install.packages("fansi")
 install.packages("ggpubr")
 install.packages("kableExtra")
 install.packages("ggthemes")
-
+install.packages("hover")
+install.packages("shinyjs")
 
 remotes::install_github('yonicd/slickR') # removed from CRAN - now only on GitHub
 
