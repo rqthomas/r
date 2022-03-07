@@ -22,6 +22,11 @@ install.packages("ncdf4")
 install.packages("remotes")
 install.packages("rvest")
 install.packages("xml2")
+install.packages("fansi")
+install.packages("ggpubr")
+install.packages("kableExtra")
+install.packages("ggthemes")
+
 
 remotes::install_github('yonicd/slickR') # removed from CRAN - now only on GitHub
 
