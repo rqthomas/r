@@ -1,6 +1,0 @@
-sudo apt-get update -qq
-sudo apt-get -y --no-install-recommends install libgdal-dev
-sudo apt-get -y --no-install-recommends install libhdf4-alt-dev
-sudo apt-get -y --no-install-recommends install libhdf5-dev
-sudo apt-get -y --no-install-recommends install libnetcdf-dev
-sudo apt-get -y --no-install-recommends install libudunits2-dev
