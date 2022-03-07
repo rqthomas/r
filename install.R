@@ -3,3 +3,27 @@ install.packages("rmarkdown")
 install.packages("httr")
 install.packages("shinydashboard")
 install.packages('leaflet')
+install.packages("shiny")
+install.packages("DT")
+install.packages("sf")
+install.packages("leaflet")
+install.packages("ggplot2")
+install.packages("plotly")
+install.packages("plyr")
+install.packages("reshape2")
+install.packages("tidyr")
+install.packages("stringr")
+install.packages("htmltools")
+install.packages("shinyBS")
+install.packages("shinydashboard")
+install.packages("rintrojs")
+install.packages("sortable")
+install.packages("ncdf4")
+install.packages("remotes")
+install.packages("rvest")
+install.packages("xml2")
+
+remotes::install_github('yonicd/slickR') # removed from CRAN - now only on GitHub
+
+# end
+
