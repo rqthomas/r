@@ -29,6 +29,12 @@ install.packages("ggthemes")
 install.packages("hover")
 install.packages("shinyjs")
 install.packages("reshape")
+install.packages("deSolve")
+install.packages("LakeMetabolizer")
+install.packages("rLakeAnalyzer")
+install.packages("shinycssloaders")
+install.packages("zoo")
+
 
 remotes::install_github('yonicd/slickR') # removed from CRAN - now only on GitHub
 
