@@ -28,6 +28,7 @@ install.packages("kableExtra")
 install.packages("ggthemes")
 install.packages("hover")
 install.packages("shinyjs")
+install.packages("reshape")
 
 remotes::install_github('yonicd/slickR') # removed from CRAN - now only on GitHub
 
